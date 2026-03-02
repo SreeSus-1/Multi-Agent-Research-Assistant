@@ -14,6 +14,6 @@ An AI-powered research system that uses multiple specialized agents to:
 - Report Generator Agent
 
 ## How to Run
-1. Pull model: ollama pull llama2
-2. Start model: ollama run llama2
+1. Pull model: ollama pull mistral
+2. Start model: ollama run mistral
 3. Launch app: streamlit run frontend.py
